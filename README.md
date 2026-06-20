@@ -127,7 +127,7 @@ Open the local URL Vite prints in the terminal (typically `http://localhost:5173
 
 ## License
 
-This project is licensed under the [MIT License](License).
+This project is licensed under the [MIT License](./License).
 <br />
 
 ---
